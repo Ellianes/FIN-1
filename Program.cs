@@ -5,7 +5,6 @@
 string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
-
 {
     int count = 0;
     for (int i = 0; i < array1.Length; i++)
@@ -16,19 +15,18 @@ void SecondArrayWithIF(string[] array1, string[] array2)
         count++;
         }
     }
-    
-    void PrintArray(string[] array)
+}
+void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
         Console.Write($"{array[i]} ");
     }
     Console.WriteLine();
-   
-    // тут должен закончится 3 коммит (но это не точно)
+}
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
 
+/*Оно живое, живое!!!
 
-
-    // думали это конец коммита? Нет, это я, Дио!
-
-    //А вот тут уже точно конец
+Кстати, конец четвертого(?) коммита. */
