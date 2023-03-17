@@ -1,0 +1,15 @@
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.csproj.AssemblyReference.cache
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.AssemblyInfoInputs.cache
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.AssemblyInfo.cs
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.csproj.CoreCompileInputs.cache
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\bin\Debug\net6.0\FIN-1.exe
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\bin\Debug\net6.0\FIN-1.deps.json
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\bin\Debug\net6.0\FIN-1.runtimeconfig.json
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\bin\Debug\net6.0\FIN-1.dll
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\bin\Debug\net6.0\FIN-1.pdb
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.dll
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\refint\FIN-1.dll
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.pdb
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\FIN-1.genruntimeconfig.cache
+C:\Users\Ellianesh\Desktop\учеба\FIN-1\obj\Debug\net6.0\ref\FIN-1.dll
